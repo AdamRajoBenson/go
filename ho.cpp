@@ -7,5 +7,5 @@ cin>>a;
 if((a>='A'&&a<='Z')||(a>='a'&&a<='z'))
 cout<<"alphabet";
 else
-cout<<"not an alphabet";
+cout<<"no";
 }
