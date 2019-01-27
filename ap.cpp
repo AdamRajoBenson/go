@@ -11,4 +11,5 @@ s+=b;
 b+=d;
 }
 cout<<s;
+  getch();
 }
