@@ -7,4 +7,5 @@ cin>>m;
 h=m/60;
 s=m%60;
 cout<<h<<" "<<s;
+getch();
 }
